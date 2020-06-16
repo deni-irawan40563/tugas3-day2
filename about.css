@@ -1,0 +1,18 @@
+body {
+    background-image: url(img/bg1.jpg);
+    background-size : cover;
+    background-repeat: no-repeat;
+}
+.tulisan {
+  margin: 25% 20%;
+}
+.tulisan h1 {
+  font-family:'pacifico';
+  font-size: 48px;
+  line-height: 84px;
+}
+.tulisan p {
+  font-family: 'SFProDisplay-Regular';
+  font-size:28px;
+  line-height:33px;
+}

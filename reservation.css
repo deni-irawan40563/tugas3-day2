@@ -1,0 +1,13 @@
+body {
+  background-image: url(img/bg2.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.container {
+  margin: 10%;
+}
+.h1 {
+  font-family: 'pacifico';
+  font-size: 48px;
+  line-height: 84px;
+}

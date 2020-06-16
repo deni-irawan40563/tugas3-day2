@@ -1,0 +1,25 @@
+body {
+    background-image: url(img/ImageBackground.jpg);
+    background-size : cover;
+    background-repeat: no-repeat;
+}
+.tulisan {
+  padding-top:44px;
+  font-family: 'pacifico';
+  padding-top: 20px;
+  font-size: 48px;
+  line-height: 84px;
+}
+.tulisan p {
+  font-family:'SFProDisplay-Regular';
+  margin-top: 28px;
+  font-size: 14px;
+  line-height:17px;
+}
+a{
+  text-decoration:none;
+  font-family:'pacifico';
+}
+.about {
+  margin: 59px 10px;
+}
